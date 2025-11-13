@@ -1,0 +1,737 @@
+{
+  "Files": [
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/obj/Debug/net8.0/scopedcss/projectbundle/dotnetWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets/dotnetWeb.bundle.scp.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/aos.css",
+      "PackagePath": "staticwebassets/css/aos.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap.css",
+      "PackagePath": "staticwebassets/css/bootstrap.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-grid.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/bootstrap/index.html",
+      "PackagePath": "staticwebassets/css/bootstrap/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/components/_site-blocks.css",
+      "PackagePath": "staticwebassets/css/components/_site-blocks.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/flatpickr.min.css",
+      "PackagePath": "staticwebassets/css/flatpickr.min.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/glightbox.min.css",
+      "PackagePath": "staticwebassets/css/glightbox.min.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/index.html",
+      "PackagePath": "staticwebassets/css/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/style.css",
+      "PackagePath": "staticwebassets/css/style.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/css/tiny-slider.css",
+      "PackagePath": "staticwebassets/css/tiny-slider.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/backup.txt",
+      "PackagePath": "staticwebassets/fonts/flaticon/backup.txt"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/Flaticon.eot",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/Flaticon.eot"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/Flaticon.svg",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/Flaticon.svg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/Flaticon.ttf",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/Flaticon.ttf"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/Flaticon.woff",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/Flaticon.woff"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/Flaticon.woff2",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/Flaticon.woff2"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/_flaticon.css",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/_flaticon.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/_flaticon.scss",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/_flaticon.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/flaticon.css",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/flaticon.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/font/flaticon.html",
+      "PackagePath": "staticwebassets/fonts/flaticon/font/flaticon.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/index.html",
+      "PackagePath": "staticwebassets/fonts/flaticon/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/flaticon/license/license.pdf",
+      "PackagePath": "staticwebassets/fonts/flaticon/license/license.pdf"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/Read Me.txt",
+      "PackagePath": "staticwebassets/fonts/icomoon/Read Me.txt"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/demo-files/demo.css",
+      "PackagePath": "staticwebassets/fonts/icomoon/demo-files/demo.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/demo-files/demo.js",
+      "PackagePath": "staticwebassets/fonts/icomoon/demo-files/demo.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/demo.html",
+      "PackagePath": "staticwebassets/fonts/icomoon/demo.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/fonts/icomoon.eot",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.eot"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/fonts/icomoon.svg",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.svg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/fonts/icomoon.ttf",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.ttf"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/fonts/icomoon.woff",
+      "PackagePath": "staticwebassets/fonts/icomoon/fonts/icomoon.woff"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/index.html",
+      "PackagePath": "staticwebassets/fonts/icomoon/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/selection.json",
+      "PackagePath": "staticwebassets/fonts/icomoon/selection.json"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/icomoon/style.css",
+      "PackagePath": "staticwebassets/fonts/icomoon/style.css"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/fonts/index.html",
+      "PackagePath": "staticwebassets/fonts/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/blob.svg",
+      "PackagePath": "staticwebassets/images/blob.svg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/dots.png",
+      "PackagePath": "staticwebassets/images/dots.png"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_1.jpg",
+      "PackagePath": "staticwebassets/images/hero_1.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_2.jpg",
+      "PackagePath": "staticwebassets/images/hero_2.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_3.jpg",
+      "PackagePath": "staticwebassets/images/hero_3.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_4.jpg",
+      "PackagePath": "staticwebassets/images/hero_4.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_5.jpg",
+      "PackagePath": "staticwebassets/images/hero_5.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_6-1.jpg",
+      "PackagePath": "staticwebassets/images/hero_6-1.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/hero_6.jpg",
+      "PackagePath": "staticwebassets/images/hero_6.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_1_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_1_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_1_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_1_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_1_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_1_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_2_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_2_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_2_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_2_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_2_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_2_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_3_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_3_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_3_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_3_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_3_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_3_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_4_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_4_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_4_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_4_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_4_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_4_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_5_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_5_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_5_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_5_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_5_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_5_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_6_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_6_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_6_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_6_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_6_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_6_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_7_horizontal.jpg",
+      "PackagePath": "staticwebassets/images/img_7_horizontal.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_7_sq.jpg",
+      "PackagePath": "staticwebassets/images/img_7_sq.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/img_7_vertical.jpg",
+      "PackagePath": "staticwebassets/images/img_7_vertical.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/index.html",
+      "PackagePath": "staticwebassets/images/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/person_1.jpg",
+      "PackagePath": "staticwebassets/images/person_1.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/person_2.jpg",
+      "PackagePath": "staticwebassets/images/person_2.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/person_3.jpg",
+      "PackagePath": "staticwebassets/images/person_3.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/person_4.jpg",
+      "PackagePath": "staticwebassets/images/person_4.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/person_5.jpg",
+      "PackagePath": "staticwebassets/images/person_5.jpg"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/images/world-dotted-map.png",
+      "PackagePath": "staticwebassets/images/world-dotted-map.png"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/aos.js",
+      "PackagePath": "staticwebassets/js/aos.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/counter.js",
+      "PackagePath": "staticwebassets/js/counter.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/custom.js",
+      "PackagePath": "staticwebassets/js/custom.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/flatpickr.min.js",
+      "PackagePath": "staticwebassets/js/flatpickr.min.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/glightbox.min.js",
+      "PackagePath": "staticwebassets/js/glightbox.min.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/index.html",
+      "PackagePath": "staticwebassets/js/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/navbar.js",
+      "PackagePath": "staticwebassets/js/navbar.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/js/tiny-slider.js",
+      "PackagePath": "staticwebassets/js/tiny-slider.js"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_accordion.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_accordion.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_alert.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_badge.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_badge.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_breadcrumb.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_breadcrumb.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_button-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_button-group.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_buttons.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_card.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_card.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_carousel.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_carousel.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_close.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_close.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_containers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_containers.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_dropdown.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_dropdown.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_forms.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_functions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_functions.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_grid.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_helpers.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_helpers.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_images.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_images.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_list-group.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_mixins.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_mixins.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_modal.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_modal.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_nav.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_nav.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_navbar.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_navbar.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_offcanvas.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_offcanvas.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_pagination.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_placeholders.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_placeholders.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_popover.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_popover.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_progress.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_progress.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_reboot.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_root.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_root.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_spinners.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_spinners.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_tables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_tables.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_toasts.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_toasts.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_tooltip.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_tooltip.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_transitions.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_transitions.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_type.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_type.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_utilities.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/_variables.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/_variables.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/bootstrap-grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap-grid.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap-reboot.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap-utilities.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/bootstrap.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/bootstrap.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_floating-labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_floating-labels.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_form-check.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_form-check.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_form-control.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_form-control.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_form-range.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_form-range.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_form-select.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_form-select.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_form-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_form-text.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_input-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_input-group.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_labels.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_labels.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/forms/_validation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/forms/_validation.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_clearfix.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_colored-links.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_colored-links.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_position.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_position.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_ratio.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_ratio.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_stacks.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_stacks.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_stretched-link.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_stretched-link.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_text-truncation.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_text-truncation.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_visually-hidden.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/helpers/_vr.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/helpers/_vr.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/index.html",
+      "PackagePath": "staticwebassets/scss/bootstrap/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_alert.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_alert.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_backdrop.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_backdrop.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_border-radius.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_border-radius.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_box-shadow.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_box-shadow.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_breakpoints.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_breakpoints.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_buttons.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_buttons.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_caret.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_caret.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_clearfix.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_clearfix.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_color-scheme.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_color-scheme.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_container.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_container.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_deprecate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_deprecate.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_forms.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_forms.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_gradients.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_gradients.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_grid.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_grid.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_image.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_image.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_list-group.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_list-group.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_lists.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_lists.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_pagination.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_pagination.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_reset-text.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_reset-text.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_resize.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_resize.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_table-variants.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_table-variants.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_text-truncate.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_text-truncate.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_transition.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_transition.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_utilities.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_utilities.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/mixins/_visually-hidden.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/mixins/_visually-hidden.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/utilities/_api.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/utilities/_api.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/bootstrap/vendor/_rfs.scss",
+      "PackagePath": "staticwebassets/scss/bootstrap/vendor/_rfs.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/components/_site-base.scss",
+      "PackagePath": "staticwebassets/scss/components/_site-base.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/components/_site-blocks.scss",
+      "PackagePath": "staticwebassets/scss/components/_site-blocks.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/components/_site-footer.scss",
+      "PackagePath": "staticwebassets/scss/components/_site-footer.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/components/_site-navbar.scss",
+      "PackagePath": "staticwebassets/scss/components/_site-navbar.scss"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/components/index.html",
+      "PackagePath": "staticwebassets/scss/components/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/index.html",
+      "PackagePath": "staticwebassets/scss/index.html"
+    },
+    {
+      "Id": "/home/sadtoday/RiderProjects/dotnetWeb/dotnetWeb/wwwroot/scss/style.scss",
+      "PackagePath": "staticwebassets/scss/style.scss"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.dotnetWeb.props",
+      "PackagePath": "build\\dotnetWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.dotnetWeb.props",
+      "PackagePath": "buildMultiTargeting\\dotnetWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.dotnetWeb.props",
+      "PackagePath": "buildTransitive\\dotnetWeb.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.dotnetWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
