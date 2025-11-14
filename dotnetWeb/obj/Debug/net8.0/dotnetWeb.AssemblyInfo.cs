@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnetWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0451a7b69da08948a2153259853c74c42138305")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b254f074be7cd5a797a02bee5cafa619f28e3d06")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnetWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnetWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

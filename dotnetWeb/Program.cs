@@ -5,8 +5,9 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder
-    .Services.AddControllersWithViews()
-    .Services.AddDbContext<BlogyContext>(options =>
+    .Services.AddControllersWithViews();
+    
+builder.Services.AddDbContext<BlogyContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 
