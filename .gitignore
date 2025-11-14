@@ -1,11 +1,10 @@
-/dotnetWeb.sln
 # Visual Studio / Rider
 .vs/
 *.user
 *.suo
 *.userosscache
 *.sln.docstates
-*.idea/
+.idea/
 
 # Build & publish
 bin/
@@ -13,7 +12,7 @@ obj/
 out/
 publish/
 
-# EF Core Migrations (tuỳ bạn có muốn version control hay không)
+# EF Core Migrations (nên giữ Migrations)
 # Migrations/
 
 # NuGet
@@ -23,10 +22,6 @@ project.lock.json
 project.fragment.lock.json
 *.nuget.props
 *.nuget.targets
-
-# Rider
-.idea/
-*.iml
 
 # Logs
 *.log
@@ -44,7 +39,7 @@ Thumbs.db
 *.bak
 
 # Secret files
-appsetting.json
+# appsettings.json BẮT BUỘC PHẢI TRACK
 appsettings.*.json
 secrets.json
 sql_data/
