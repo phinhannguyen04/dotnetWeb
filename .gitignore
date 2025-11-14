@@ -44,5 +44,7 @@ Thumbs.db
 *.bak
 
 # Secret files
+appsetting.json
 appsettings.*.json
 secrets.json
+sql_data/
